@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 45c930c7-8030-c183-3ff9-98d686289e66
 resourcetype: Document
 title: 2012 exam 2 solutions
 uid: b0aaf6fe-e584-69c4-8126-d7159b14c5ac

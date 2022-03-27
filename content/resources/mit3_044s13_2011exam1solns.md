@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 45c930c7-8030-c183-3ff9-98d686289e66
 resourcetype: Document
 title: 2011 exam 1 solutions
 uid: 9238a713-8e74-9941-be8d-6479fcda6bd5

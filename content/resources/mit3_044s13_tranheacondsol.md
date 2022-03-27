@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cc6aed4c-927f-3fea-ccab-f448917497f8
 resourcetype: Document
 title: Transient heat conduction solutions
 uid: 6b75f358-c8da-03e1-a3ea-70a6e2098dd5

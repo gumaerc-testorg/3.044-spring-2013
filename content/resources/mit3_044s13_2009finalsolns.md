@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 45c930c7-8030-c183-3ff9-98d686289e66
 resourcetype: Document
 title: 2009 final solutions
 uid: 300402f1-3861-4c9c-7366-2c4bda957d6e

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8e10cd44-bd29-76d3-74d1-e44cfe657aae
 resourcetype: Document
 title: Video assignment
 uid: b3eea8cb-048d-0191-eb7e-72c36d5bd33d

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 45c930c7-8030-c183-3ff9-98d686289e66
 resourcetype: Document
 title: 2013 exam 2 solutions
 uid: 50d3b5ed-3e06-528c-e5f1-f28d27722739
