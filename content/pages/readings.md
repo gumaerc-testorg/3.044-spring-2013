@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the course textbooks and the schedule
+  of readings by topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

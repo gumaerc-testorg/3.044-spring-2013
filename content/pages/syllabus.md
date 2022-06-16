@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, grading components, and the schedule of lecture
+  topics and key dates for assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +19,7 @@ Recitations: 1 session / week, 1 hour / session
 Prerequisites
 -------------
 
-[3.012 _Fundamentals of Materials Science_](/courses/3-012-fundamentals-of-materials-science-fall-2005/)
+[3.012 _Fundamentals of Materials Science_](/courses/3-012-fundamentals-of-materials-science-fall-2005)
 
 3.022 _Microstructural Evolution in Materials_
 
