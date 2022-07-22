@@ -5,6 +5,7 @@ file: /courses/3-044-materials-processing-spring-2013/21d9ea828ef242a976d2026e85
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2011 exam 2 solutions
 uid: 21d9ea82-8ef2-42a9-76d2-026e85f770f6
 ---
 This file contains information regarding 2011 exam 2 solutions.
-

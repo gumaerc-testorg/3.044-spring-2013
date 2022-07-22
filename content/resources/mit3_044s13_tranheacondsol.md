@@ -5,6 +5,7 @@ file: /courses/3-044-materials-processing-spring-2013/6b75f358c8da03e1a3ea70a6e2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Transient heat conduction solutions
 uid: 6b75f358-c8da-03e1-a3ea-70a6e2098dd5
 ---
 This file contains information regarding transient heat conduction solutions.
-

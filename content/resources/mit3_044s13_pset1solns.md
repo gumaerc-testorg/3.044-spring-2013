@@ -5,6 +5,7 @@ file: /courses/3-044-materials-processing-spring-2013/d7a1661d97b8f5d15d4f88b53a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem set 1 solutions
 uid: d7a1661d-97b8-f5d1-5d4f-88b53ace2971
 ---
 This file contains information regarding problem set 1 solutions.
-

@@ -5,6 +5,7 @@ file: /courses/3-044-materials-processing-spring-2013/ae4180dea741abab733000bed6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem set 4 solutions
 uid: ae4180de-a741-abab-7330-00bed64aaa9f
 ---
 This file contains information regarding problem set 4 solutions.
-

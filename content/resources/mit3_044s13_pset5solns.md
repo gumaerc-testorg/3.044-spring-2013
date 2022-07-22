@@ -5,6 +5,7 @@ file: /courses/3-044-materials-processing-spring-2013/22a0d04f4fed0880fb6aafa2c2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem set 5 solutions
 uid: 22a0d04f-4fed-0880-fb6a-afa2c23e7d3e
 ---
 This file contains information regarding problem set 5 solutions.
-

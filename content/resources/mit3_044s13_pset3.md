@@ -5,6 +5,7 @@ file: /courses/3-044-materials-processing-spring-2013/232b97494f6cca56a913dbefcd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem set 3
 uid: 232b9749-4f6c-ca56-a913-dbefcdec7167
 ---
 This file contains information regarding problem set 3.
-
