@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with lecture notes and additional materials used for each session.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: cc6aed4c-927f-3fea-ccab-f448917497f8
 ---
@@ -39,7 +44,7 @@ Heat conduction equation
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 1 (PDF)]({{< baseurl >}}/resources/mit3_044s13_lec01)
+{{% resource_link c122f7b4-efc5-28c1-7930-eb9c7c4662dd "Lecture 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -54,7 +59,7 @@ Heat conduction equation
 Heat conduction equation review
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 2 (PDF)]({{< baseurl >}}/resources/mit3_044s13_lec02)
+{{% resource_link c4d4745e-f78a-9c5f-cb59-86f934f8aab8 "Lecture 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -75,7 +80,7 @@ Three important cases
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 3 (PDF)]({{< baseurl >}}/resources/mit3_044s13_lec03)
+{{% resource_link 081f3c79-abb2-de69-2746-56cde699ce78 "Lecture 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -98,10 +103,10 @@ Transient solutions and dimensionless variables
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 4 (PDF)]({{< baseurl >}}/resources/mit3_044s13_lec04)
+{{% resource_link 02f79fb7-02ec-e650-67f5-827044029807 "Lecture 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
- [Transient heat conduction solutions (PDF)]({{< baseurl >}}/resources/mit3_044s13_tranheacondsol)
+ {{% resource_link 6b75f358-c8da-03e1-a3ea-70a6e2098dd5 "Transient heat conduction solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +124,7 @@ Analyzing thermal spray coatings
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 5 (PDF)]({{< baseurl >}}/resources/mit3_044s13_lec05)
+{{% resource_link 5b02d3e7-3eaf-3afa-6ec9-564595714beb "Lecture 5 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -156,7 +161,7 @@ Hot rolling steel
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 6 (PDF)]({{< baseurl >}}/resources/mit3_044s13_lec06)
+{{% resource_link 28a25e06-805d-1037-eecb-b968e3e7f747 "Lecture 6 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -185,7 +190,7 @@ Black bodies, emissivity & radiation M number
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 7 (PDF)]({{< baseurl >}}/resources/mit3_044s13_lec07)
+{{% resource_link 82603249-7301-1719-5846-882421724f11 "Lecture 7 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -214,7 +219,7 @@ Solidification in a thick mold
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 8 (PDF)]({{< baseurl >}}/resources/mit3_044s13_lec08)
+{{% resource_link 5f208d00-cad8-0cf1-3ccb-a92887fe7aa3 "Lecture 8 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -239,7 +244,7 @@ Introduction to binary solidification
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 9 (PDF)]({{< baseurl >}}/resources/mit3_044s13_lec09)
+{{% resource_link 47576d53-0e3a-052c-0c3b-2451f4076eb6 "Lecture 9 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -268,7 +273,7 @@ Solute balance, partition coefficient
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 10 (PDF)]({{< baseurl >}}/resources/mit3_044s13_lec10)
+{{% resource_link 0d634a3f-44fc-dffa-2bbf-a17ca849b22d "Lecture 10 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Jallepalli SATYA SUNITHA. "Dendritic Solidification." August 24, 2008. YouTube. Accessed March 20, 2013. [http://www.youtube.com/watch?v=S07fPo45BvM](http://www.youtube.com/watch?v=S07fPo45BvM)
@@ -293,7 +298,7 @@ Engineering binary alloy microstructures
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 11 (PDF)]({{< baseurl >}}/resources/mit3_044s13_lec11)
+{{% resource_link 086fc56b-17f3-58f0-2152-4178008a2916 "Lecture 11 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -339,7 +344,7 @@ Fluid free surface boundary condition
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 13 (PDF)]({{< baseurl >}}/resources/mit3_044s13_lec13)
+{{% resource_link a52862a7-bdb7-3fc2-f16f-b551a5b1a905 "Lecture 13 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -364,7 +369,7 @@ Introduction to glass production
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 14 (PDF)]({{< baseurl >}}/resources/mit3_044s13_lec14)
+{{% resource_link cc074639-4407-ee9d-4185-e8b9aec39fe1 "Lecture 14 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -387,7 +392,7 @@ Drag force
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 15 (PDF)]({{< baseurl >}}/resources/mit3_044s13_lec15)
+{{% resource_link a0e568eb-816d-b16a-71d3-a7d37b0cd97f "Lecture 15 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -418,7 +423,7 @@ Reynolds number
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 16 (PDF)]({{< baseurl >}}/resources/mit3_044s13_lec16)
+{{% resource_link 13146e29-bf5f-6a0f-bb1a-dc753c74d17a "Lecture 16 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -460,7 +465,7 @@ Solid state shape forming
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 18 (PDF)]({{< baseurl >}}/resources/mit3_044s13_lec18)
+{{% resource_link 50619c8a-76a5-acd5-ee39-e0bb6704227c "Lecture 18 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 The Bluemint Video Haven. "How Plastic Bottles are Made." September 10, 2006. YouTube. Accessed April 24, 2013. [http://www.youtube.com/watch?v=T01i\_vp2mJE](http://www.youtube.com/watch?v=T01i_vp2mJE)
@@ -475,7 +480,7 @@ The Bluemint Video Haven. "How Plastic Bottles are Made." September 10, 2006. Yo
 More on Newtonian and non-Newtonian flow
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 19 (PDF)]({{< baseurl >}}/resources/mit3_044s13_lec19)
+{{% resource_link 7d72f6c5-1b51-a067-0508-9f60b1e044b7 "Lecture 19 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -498,7 +503,7 @@ Sintering, slurry processing
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 20 (PDF)]({{< baseurl >}}/resources/mit3_044s13_lec20)
+{{% resource_link 06b663b0-3fc4-cab4-8f9d-0517da9c7beb "Lecture 20 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -527,7 +532,7 @@ Slurry settling / casting
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 21 (PDF)]({{< baseurl >}}/resources/mit3_044s13_lec21)
+{{% resource_link 85aa1c13-4f26-1cc0-c276-3d86edee0677 "Lecture 21 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -550,7 +555,7 @@ Steel solidification analysis
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 22 (PDF)]({{< baseurl >}}/resources/mit3_044s13_lec22)
+{{% resource_link 6894fd8f-8228-25d7-a6db-7ca884a2b7ff "Lecture 22 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -581,7 +586,7 @@ A bit about electronics manufacturing
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 23 (PDF)]({{< baseurl >}}/resources/mit3_044s13_lec23)
+{{% resource_link c5346b2c-98ee-578b-e3fd-e6196129cf2b "Lecture 23 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
