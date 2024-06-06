@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding 2013 exam 2 solutions.
 file: /courses/3-044-materials-processing-spring-2013/50d3b5ed3e06528ce5f1f28d27722739_MIT3_044S13_2013exam2solns.pdf
+file_size: 264355
 file_type: application/pdf
 learning_resource_types:
 - Exams

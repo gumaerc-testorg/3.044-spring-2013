@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding problem set 4 solutions.
 file: /courses/3-044-materials-processing-spring-2013/ae4180dea741abab733000bed64aaa9f_MIT3_044S13_pset4solns.pdf
+file_size: 155043
 file_type: application/pdf
 learning_resource_types:
 - Assignments
