@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding problem set 1.
 file: /courses/3-044-materials-processing-spring-2013/8fa94fb6a6cb07affe4981a0f5961bee_MIT3_044S13_pset1.pdf
+file_size: 132974
 file_type: application/pdf
 learning_resource_types:
 - Assignments
