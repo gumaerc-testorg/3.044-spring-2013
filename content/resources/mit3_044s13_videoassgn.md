@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding video assignment.
-file: /ol-ocw-studio-app/courses/3-044-materials-processing-spring-2013/b3eea8cb048d0191eb7e72c36d5bd33d_MIT3_044S13_videoassgn.pdf
+file: /courses/3-044-materials-processing-spring-2013/b3eea8cb048d0191eb7e72c36d5bd33d_MIT3_044S13_videoassgn.pdf
 file_size: 424841
 file_type: application/pdf
 learning_resource_types:
