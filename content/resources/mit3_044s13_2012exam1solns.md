@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding 2012 exam 1 solutions.
-file: /ol-ocw-studio-app/courses/3-044-materials-processing-spring-2013/4f009b06664f590df0eac2a3891553ef_MIT3_044S13_2012exam1solns.pdf
+file: /courses/3-044-materials-processing-spring-2013/4f009b06664f590df0eac2a3891553ef_MIT3_044S13_2012exam1solns.pdf
 file_size: 237298
 file_type: application/pdf
 learning_resource_types:
