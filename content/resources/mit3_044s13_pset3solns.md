@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding problem set 3 solutions.
-file: /courses/3-044-materials-processing-spring-2013/0ba97c34d650daa4f48708ba4275bc89_MIT3_044S13_pset3solns.pdf
+file: /ol-ocw-studio-app/courses/3-044-materials-processing-spring-2013/0ba97c34d650daa4f48708ba4275bc89_MIT3_044S13_pset3solns.pdf
 file_size: 181539
 file_type: application/pdf
 learning_resource_types:
