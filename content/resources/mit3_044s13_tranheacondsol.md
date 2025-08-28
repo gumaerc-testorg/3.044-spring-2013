@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding transient heat conduction solutions.
-file: /courses/3-044-materials-processing-spring-2013/6b75f358c8da03e1a3ea70a6e2098dd5_MIT3_044S13_TranHeaCondSol.pdf
+file: /ol-ocw-studio-app/courses/3-044-materials-processing-spring-2013/6b75f358c8da03e1a3ea70a6e2098dd5_MIT3_044S13_TranHeaCondSol.pdf
 file_size: 55085
 file_type: application/pdf
 learning_resource_types:
