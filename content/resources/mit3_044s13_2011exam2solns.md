@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding 2011 exam 2 solutions.
-file: /courses/3-044-materials-processing-spring-2013/21d9ea828ef242a976d2026e85f770f6_MIT3_044S13_2011exam2solns.pdf
+file: /ol-ocw-studio-app/courses/3-044-materials-processing-spring-2013/21d9ea828ef242a976d2026e85f770f6_MIT3_044S13_2011exam2solns.pdf
 file_size: 685695
 file_type: application/pdf
 learning_resource_types:
