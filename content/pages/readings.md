@@ -11,7 +11,7 @@ uid: 3cd56f90-5888-0908-efe1-8ad74cbe81c6
 
 \[Poirier & Geiger\] = Poirier, D. R., and G. H. Geiger. _Transport Phenomena in Materials Processing_. John Wiley and Sons Ltd, 1998. ISBN: 9780873392723.
 
-\[IDBL\] = Bergman, Theodore L., Adrienne S. Lavine, et al. _Introduction to Heat Transfer_. 6th ed. Wiley, 2011. ISBN: 9780470501962. \[Preview with [Google Books](http://books.google.com/books?id=YBaNaLurTD4C&pg=PAfrontcover)\]
+\[IDBL\] = Bergman, Theodore L., Adrienne S. Lavine, et al. _Introduction to Heat Transfer_. 6th ed. Wiley, 2011. ISBN: 9780470501962. \[Preview with {{% resource_link "f76a0190-e74f-4680-b780-624678b31f03" "Google Books" %}}\]
 
 \[Kou\] = Kou, Sindo. _Transport Phenomena and Materials Processing_. Wiley-Interscience, 1996. ISBN: 9780471076674.
 
@@ -333,7 +333,7 @@ Laminar flow
 The float glass process
 {{< tdclose >}}
 {{< tdopen >}}
-Pilkington, L. A. B. "[The Float Glass Process](http://www.jstor.org/stable/2416528)." _Proceedings of the Royal Society of London, Series A. Mathematical and Physical Sciences_ 314, no. 1516 (1969): 1–25.
+Pilkington, L. A. B. "{{% resource_link "9624ca30-31f2-419d-a5e1-77e583ba36cb" "The Float Glass Process" %}}." _Proceedings of the Royal Society of London, Series A. Mathematical and Physical Sciences_ 314, no. 1516 (1969): 1–25.
 {{< tdclose >}}
 
 {{< trclose >}}
