@@ -131,17 +131,17 @@ Analyzing thermal spray coatings
 
 ### Glass fiber production
 
-Gulf Broadcast. "Abahsain Fiber Glass." March 23, 2011. YouTube. Accessed February 25, 2013. [http://www.youtube.com/watch?v=GAlZc9v17bw](http://www.youtube.com/watch?v=GAlZc9v17bw)
+Gulf Broadcast. "Abahsain Fiber Glass." March 23, 2011. YouTube. Accessed February 25, 2013. {{% resource_link "2d848cbb-2ef6-447b-af23-3dc19e6ba75d" "http://www.youtube.com/watch?v=GAlZc9v17bw" %}}
 
-Adeelz channel \[adeelahmed26\]. "How it's made s6 ep8 - Fibreglass Insulation." December 1, 2008. YouTube. Accessed February 25, 2013. [http://www.youtube.com/watch?v=1O0jFDdkyV8](http://www.youtube.com/watch?v=1O0jFDdkyV8)
+Adeelz channel \[adeelahmed26\]. "How it's made s6 ep8 - Fibreglass Insulation." December 1, 2008. YouTube. Accessed February 25, 2013. {{% resource_link "dadfcb9b-5a84-4c97-9d4c-3fd126c318f5" "http://www.youtube.com/watch?v=1O0jFDdkyV8" %}}
 
 ### Thermal spray
 
-Avweld. "HVAF Thermal Spraying, Tungsten Carbide, Paper Industry Roll." November 14, 2007. YouTube. Accessed February 25, 2013. [http://www.youtube.com/watch?v=HQAdQvDrSl0](http://www.youtube.com/watch?v=HQAdQvDrSl0)
+Avweld. "HVAF Thermal Spraying, Tungsten Carbide, Paper Industry Roll." November 14, 2007. YouTube. Accessed February 25, 2013. {{% resource_link "b6f1dbb0-af0e-42ce-904f-f49657521113" "http://www.youtube.com/watch?v=HQAdQvDrSl0" %}}
 
 ### Remanufacturing
 
-CatRCD. "Caterpillar Remanufacturing Overview." February 14, 2012. YouTube. Accessed February 25, 2013. [http://www.youtube.com/watch?v=sWKaB1MaUA0](http://www.youtube.com/watch?v=sWKaB1MaUA0)
+CatRCD. "Caterpillar Remanufacturing Overview." February 14, 2012. YouTube. Accessed February 25, 2013. {{% resource_link "165191ba-1596-497d-a18f-82f9000da7fb" "http://www.youtube.com/watch?v=sWKaB1MaUA0" %}}
 
 
 {{< tdclose >}}
@@ -168,7 +168,7 @@ Hot rolling steel
 
 ### Steel heat treatment
 
-CorusBCSATraining. "Steelmaking: Rolling." July 26, 2007. YouTube. Accessed February 27, 2013. [http://www.youtube.com/watch?v=6xnKmt\_gsLs](http://www.youtube.com/watch?v=6xnKmt_gsLs)
+CorusBCSATraining. "Steelmaking: Rolling." July 26, 2007. YouTube. Accessed February 27, 2013. {{% resource_link "a2357ac2-0196-4240-809a-d0240c911e47" "http://www.youtube.com/watch?v=6xnKmt\_gsLs" %}}
 
 
 {{< tdclose >}}
@@ -197,7 +197,7 @@ Black bodies, emissivity & radiation M number
 
 ### Friction welding
 
-Doug W. "Inertia Friction Welding Demonstration - Manufacturing Technology, Inc." January 18, 2009. YouTube. Accessed March 4, 2013. [http://www.youtube.com/watch?v=-aEuAK8bsQg](http://www.youtube.com/watch?v=-aEuAK8bsQg)
+Doug W. "Inertia Friction Welding Demonstration - Manufacturing Technology, Inc." January 18, 2009. YouTube. Accessed March 4, 2013. {{% resource_link "b2efe5c8-9b73-41c8-acb1-3fdf04bbeae1" "http://www.youtube.com/watch?v=-aEuAK8bsQg" %}}
 
 
 {{< tdclose >}}
@@ -249,11 +249,11 @@ Introduction to binary solidification
 {{< tdopen >}}
 
 
-ManufacturingET. "Sand Casting." April 11, 2008. YouTube. Accessed March 18, 2013. [http://www.youtube.com/watch?v=rgL2Jn5mk1A](http://www.youtube.com/watch?v=rgL2Jn5mk1A)
+ManufacturingET. "Sand Casting." April 11, 2008. YouTube. Accessed March 18, 2013. {{% resource_link "e69f8a95-f9d8-4d3d-99e8-967c012d127c" "http://www.youtube.com/watch?v=rgL2Jn5mk1A" %}}
 
-AutomotiveTv. "Ferrari V12 Engine." February 21, 2008. YouTube. Accessed March 18, 2013. [http://www.youtube.com/watch?v=AdcoVurVY30](http://www.youtube.com/watch?v=AdcoVurVY30)
+AutomotiveTv. "Ferrari V12 Engine." February 21, 2008. YouTube. Accessed March 18, 2013. {{% resource_link "e01fbf0f-2041-4c01-b0c2-a520746436b3" "http://www.youtube.com/watch?v=AdcoVurVY30" %}}
 
-Robert Lee. "Titanium Hammer Manufacturing." February 7, 2008. YouTube. Accessed March 18, 2013. [http://www.youtube.com/watch?v=NTclPnK9p9c](http://www.youtube.com/watch?v=NTclPnK9p9c)
+Robert Lee. "Titanium Hammer Manufacturing." February 7, 2008. YouTube. Accessed March 18, 2013. {{% resource_link "135d4abb-c359-4288-a25d-19720646d510" "http://www.youtube.com/watch?v=NTclPnK9p9c" %}}
 
 
 {{< tdclose >}}
@@ -276,7 +276,7 @@ Solute balance, partition coefficient
 {{% resource_link 0d634a3f-44fc-dffa-2bbf-a17ca849b22d "Lecture 10 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Jallepalli SATYA SUNITHA. "Dendritic Solidification." August 24, 2008. YouTube. Accessed March 20, 2013. [http://www.youtube.com/watch?v=S07fPo45BvM](http://www.youtube.com/watch?v=S07fPo45BvM)
+Jallepalli SATYA SUNITHA. "Dendritic Solidification." August 24, 2008. YouTube. Accessed March 20, 2013. {{% resource_link "e64d10f1-5a21-477e-ae23-c1ad37bcb2ad" "http://www.youtube.com/watch?v=S07fPo45BvM" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -399,11 +399,11 @@ Drag force
 
 ### Pilkington glass
 
-ProskillsUK. "Floatglass.mp4." September 7, 2010. YouTube. Accessed April 17, 2013. [http://www.youtube.com/watch?v=dw7623hu7wM](http://www.youtube.com/watch?v=dw7623hu7wM)
+ProskillsUK. "Floatglass.mp4." September 7, 2010. YouTube. Accessed April 17, 2013. {{% resource_link "95eb1159-e1ed-4212-97a4-4fce1bd39fc3" "http://www.youtube.com/watch?v=dw7623hu7wM" %}}
 
 ### Corning: Fusion glass
 
-CorningIncorporated. "The Fusion Process: At the core of Corning's glass innovations." January 11, 2012. YouTube. Accessed April 17, 2013. [http://www.youtube.com/watch?v=q4ZU7zUxdM8](http://www.youtube.com/watch?v=q4ZU7zUxdM8)
+CorningIncorporated. "The Fusion Process: At the core of Corning's glass innovations." January 11, 2012. YouTube. Accessed April 17, 2013. {{% resource_link "2a2d32db-a06a-4a0c-af44-6f0a89b1a3f5" "http://www.youtube.com/watch?v=q4ZU7zUxdM8" %}}
 
 
 {{< tdclose >}}
@@ -468,7 +468,7 @@ Solid state shape forming
 {{% resource_link 50619c8a-76a5-acd5-ee39-e0bb6704227c "Lecture 18 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-The Bluemint Video Haven. "How Plastic Bottles are Made." September 10, 2006. YouTube. Accessed April 24, 2013. [http://www.youtube.com/watch?v=T01i\_vp2mJE](http://www.youtube.com/watch?v=T01i_vp2mJE)
+The Bluemint Video Haven. "How Plastic Bottles are Made." September 10, 2006. YouTube. Accessed April 24, 2013. {{% resource_link "dbfeb431-bca6-482a-9d49-68654f4f6e49" "http://www.youtube.com/watch?v=T01i\_vp2mJE" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -508,11 +508,11 @@ Sintering, slurry processing
 {{< tdopen >}}
 
 
-Sunnyczh. "LDPE/HDPE Film Blowing Machine." May 25, 2008. YouTube. Accessed May 6, 2013. [http://www.youtube.com/watch?v=zgct8CpNWdg](http://www.youtube.com/watch?v=zgct8CpNWdg)
+Sunnyczh. "LDPE/HDPE Film Blowing Machine." May 25, 2008. YouTube. Accessed May 6, 2013. {{% resource_link "42bf1b7a-cadb-46d2-9693-b9087f5d9ac0" "http://www.youtube.com/watch?v=zgct8CpNWdg" %}}
 
-ElkayPlastics. "How Poly Bags Are Made movie.wmv." December 14, 2010. YouTube. Accessed May 6, 2013. [http://www.youtube.com/watch?v=O7BLsexJn0c](http://www.youtube.com/watch?v=O7BLsexJn0c)
+ElkayPlastics. "How Poly Bags Are Made movie.wmv." December 14, 2010. YouTube. Accessed May 6, 2013. {{% resource_link "c776d19b-82fa-47b7-872a-781d5be63e03" "http://www.youtube.com/watch?v=O7BLsexJn0c" %}}
 
-Superformusa. "A Tour of Superform USA - Shaping the Future Together." May 30, 2012. YouTube. Accessed May 6, 2013. [http://www.youtube.com/watch?v=\_zto5xDPIwo](http://www.youtube.com/watch?v=_zto5xDPIwo)
+Superformusa. "A Tour of Superform USA - Shaping the Future Together." May 30, 2012. YouTube. Accessed May 6, 2013. {{% resource_link "0d530568-8154-4160-a53a-0ab6012b68ce" "http://www.youtube.com/watch?v=\_zto5xDPIwo" %}}
 
 
 {{< tdclose >}}
@@ -562,9 +562,9 @@ Steel solidification analysis
 
 ### Steelmaking
 
-Dan Izzo. "Steel making." July 29, 2007. YouTube. Accessed May 13, 2013. [http://www.youtube.com/watch?v=wAcnOpOHeCU](http://www.youtube.com/watch?v=wAcnOpOHeCU)
+Dan Izzo. "Steel making." July 29, 2007. YouTube. Accessed May 13, 2013. {{% resource_link "1d48612a-4251-434c-92e9-c2b72c56876e" "http://www.youtube.com/watch?v=wAcnOpOHeCU" %}}
 
-CorusBCSATraining. "Steelmaking: Continuous Casting." July 25, 2007. YouTube. Accessed May 13, 2013. [http://www.youtube.com/watch?v=d-72gc6I-\_E](http://www.youtube.com/watch?v=d-72gc6I-_E)
+CorusBCSATraining. "Steelmaking: Continuous Casting." July 25, 2007. YouTube. Accessed May 13, 2013. {{% resource_link "ed960314-3b84-47b9-b7b6-6d9b93fb5503" "http://www.youtube.com/watch?v=d-72gc6I-\_E" %}}
 
 
 {{< tdclose >}}
